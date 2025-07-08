@@ -141,3 +141,8 @@ window.mainloop()  # Start the tkinter event loop
 
 # Create the .exe file
 # $ pyinstaller --noconsole --onefile 06-organize_file_executable.py
+
+
+# * Hidden program in background and show an icon in the taskbar. Libraries
+# PyQt
+# wxPython
