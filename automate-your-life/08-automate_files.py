@@ -1,7 +1,7 @@
 # .bat for windows and .sh for linux
 
 import os
-import stat  # To change file permissions (if needed)
+# import stat  # To change file permissions (if needed)
 
 folder = r"C:\Users\Usuario\Downloads"
 prefix = "image_"
