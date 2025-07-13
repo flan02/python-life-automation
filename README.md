@@ -22,7 +22,7 @@ Simple Python scripts to automate daily tasks and boost productivity
 5. **Automatizacion de correo y redes**
     - Enviar correos automaticos con adjuntos usando smtplib
     - Leer y organizar correos con imaplib
-    - Publicar en redes sociales automaticamente (con tweepy o instabot)
+    - Publicar en redes sociales automaticamente (con tweepy o instabot).
 6. **Automatizacion de escritorio**
     - Controlar teclado y raton con pyautogui
     - Automatizar clics, capturas de pantalla y desplazamientos
