@@ -29,4 +29,4 @@ Simple Python scripts to automate daily tasks and boost productivity
     - Creacion de bot que abra apps y ejecute tareas
 7. **Proyecto final**
     - Crear asistente personal automatico (revision de mails, guardar adjuntos, lanzar informes, etc)
-    - Programar tareas en windows, Linux y MacOS.
+    - Programar tareas en windows, Linux.
