@@ -30,3 +30,4 @@ Simple Python scripts to automate daily tasks and boost productivity
 7. **Proyecto final**
     - Crear asistente personal automatico (revision de mails, guardar adjuntos, lanzar informes, etc)
     - Programar tareas en windows, Linux.
+8
