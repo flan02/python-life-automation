@@ -31,4 +31,4 @@ Simple Python scripts to automate daily tasks and boost productivity
     - Crear asistente personal automatico (revision de mails, guardar adjuntos, lanzar informes, etc)
     - Programar tareas en windows, Linux y MacOS
 
-## Pildoras inf basic course added
+## Pildoras inf basic course added - 84 chapters
