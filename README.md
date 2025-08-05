@@ -32,3 +32,4 @@ Simple Python scripts to automate daily tasks and boost productivity
     - Programar tareas en windows, Linux y MacOS
 
 ## Pildoras inf basic course added - 87 chapters
+### new courses incoming
