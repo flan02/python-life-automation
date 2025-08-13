@@ -34,3 +34,5 @@ Simple Python scripts to automate daily tasks and boost productivity
 ## Pildoras inf basic course added.
 
 ## after mcp course
+
+## OF COURSE
